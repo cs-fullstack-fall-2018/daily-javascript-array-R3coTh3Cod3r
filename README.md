@@ -31,3 +31,4 @@ C. An alert box displaying the following: Paul, John, George
 
 D. An alert box displaying the following: John, Ringo, George
 
+The answer is B because you are replacing the second index pete in replace wth ringo so when alert the name is rplace
